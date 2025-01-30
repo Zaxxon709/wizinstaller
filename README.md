@@ -1,6 +1,6 @@
 # Forkin Wiz Installer
 
-A service add-on to auto-install your Kodi wizard in a fork from a repository. 
+A service add-on to auto-install your Kodi wizard within a fork.<br><br>
 
 ### How to use:
 1. Edit uservar.py to add your Wizards name and plugin id.
