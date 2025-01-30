@@ -6,7 +6,7 @@ A service add-on to auto-install your Kodi Wizard from repo.
 1. Edit uservar.py to add your Wizards name and plugin id.
 2. Add Forkin Wiz Installer and the repo containing your wizard to a Kodi Fork and compile.
 3. On first run your wizard will auto-install.
-4. Any future wizard updates pushed via your repo will allow the wizard to auto update in the fork.<br><br>
+4. Your wizard will then auto-update if and any future updates are pushed via your repo.<br><br>
 
 ### 709 Repository
 [![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/Zaxxon709/nexus/main/repository.709-1.0.zip)<br>
