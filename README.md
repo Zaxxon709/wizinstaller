@@ -3,8 +3,9 @@
 A service add-on to auto-install your Kodi wizard within a fork.<br><br>
 
 ### How it works:
-- On first run your Kodi wizard will auto-install from your repo. 
-- Any future wizard updates pushed via your repo will then be automatically installed.<br><br>
+- On first run your Kodi wizard auto-installs from your repo. 
+- Any future wizard updates pushed via your repo will then be automatically installed.
+- Once your wizard is installed the installer performs no further actions. From then on Kodi handles your wizard updates.<br><br>
 
 ### How to use:
 1. Edit uservar.py to add your Wizards name and plugin id.
